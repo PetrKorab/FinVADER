@@ -1,6 +1,6 @@
 
 # FinVADER
-**VADER sentiment classifier updated with financial lexicon**
+**VADER sentiment classifier updated with financial lexicons**
 
 
 **VADER** *(Valence Aware Dictionary and sEntiment Reasoner)* classifier is a mainstream model for sentiment analysis using a 
@@ -17,7 +17,7 @@ FinVADER outperforms VADER on Financial PhraseBank data:
 ![finvader_accuracy](https://github.com/PetrKorab/FinVADER/assets/62357254/6f464bb2-1d9c-4cb7-ba63-f535c6a1fda6)
 ![vader_accuracy](https://github.com/PetrKorab/FinVADER/assets/62357254/6bc4080b-ce1a-499f-9dbd-de8cf8f1ecdc)
 
-The code for this benchmark test is here.
+The code for this benchmark test is [here](https://github.com/PetrKorab/FinVADER/blob/main/finvader_benchmark.ipynb)
 
 **** 
 
