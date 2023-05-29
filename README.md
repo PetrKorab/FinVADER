@@ -62,5 +62,13 @@ scores = finvader(text,
                   indicator = 'compound' )
 ```
 
+## Documentation, examples and tutorials
+
+For examples of coding, read these  tutorials:
+
+**Fine-tuning VADER Classifier with Domain-specific Lexicons** [here](https://medium.com/mlearning-ai/fine-tuning-vader-classifier-with-domain-specific-lexicons-1b23f6882f2)
+
+
+**** 
 
 Please visit [here](https://github.com/PetrKorab/finvader/issues) for any questions, issues, bugs, and suggestions.
