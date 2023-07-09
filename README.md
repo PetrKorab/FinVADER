@@ -24,7 +24,7 @@ The code for this benchmark test is [here](https://github.com/PetrKorab/FinVADER
 
 ## Installation
 
-Arabica requires [Python 3.8 - 3.11](https://www.python.org/downloads/), and [NLTK](http://www.nltk.org). 
+FinVADER requires [Python 3.8 - 3.11](https://www.python.org/downloads/), and [NLTK](http://www.nltk.org). 
 
 To install using pip, use:
 
