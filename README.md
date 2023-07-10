@@ -49,7 +49,7 @@ from finvader import finvader
 
 ``` python
 def finvader(text = 'str',                    # Text
-             indicator = 'str',               # VADER' indicator: 'pos'/'neg'/'neu'/'compound' 
+             indicator = 'str',               # VADER's indicator: 'pos'/'neg'/'neu'/'compound' 
              use_sentibignomics: bool= False, # Use SentiBignomics lexicon
              use_henry: bool= False):         # Use Henry's lexicon
 ) 
