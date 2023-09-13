@@ -71,7 +71,6 @@ scores = finvader(text,
 For examples of coding, read these  tutorials:
 
 **FinVADER: Sentiment Analysis for Financial Applications** [here](https://medium.com/python-in-plain-english/finvader-sentiment-analysis-for-financial-applications-6ab3c08840b4)
-
 **Fine-tuning VADER Classifier with Domain-specific Lexicons** [here](https://medium.com/mlearning-ai/fine-tuning-vader-classifier-with-domain-specific-lexicons-1b23f6882f2)
 
 
