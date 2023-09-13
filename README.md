@@ -19,7 +19,6 @@ appearing in the company earnings press releases.
 FinVADER outperforms VADER on Financial PhraseBank data: 
 
 ![finvader_accuracy](https://github.com/PetrKorab/FinVADER/assets/62357254/6f464bb2-1d9c-4cb7-ba63-f535c6a1fda6)
-
 ![vader_accuracy](https://github.com/PetrKorab/FinVADER/assets/62357254/6bc4080b-ce1a-499f-9dbd-de8cf8f1ecdc)
 
 The code for this benchmark test is [here](https://github.com/PetrKorab/FinVADER/blob/main/finvader_benchmark.ipynb)
@@ -72,6 +71,7 @@ scores = finvader(text,
 For examples of coding, read these  tutorials:
 
 **FinVADER: Sentiment Analysis for Financial Applications** [here](https://medium.com/python-in-plain-english/finvader-sentiment-analysis-for-financial-applications-6ab3c08840b4)
+
 **Fine-tuning VADER Classifier with Domain-specific Lexicons** [here](https://medium.com/mlearning-ai/fine-tuning-vader-classifier-with-domain-specific-lexicons-1b23f6882f2)
 
 
