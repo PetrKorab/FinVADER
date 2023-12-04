@@ -25,7 +25,6 @@ The code for this benchmark test is [here](https://github.com/PetrKorab/FinVADER
 
 **** 
 
-
 ## Installation
 
 FinVADER requires [Python 3.8 - 3.11](https://www.python.org/downloads/), and [NLTK](http://www.nltk.org). 
@@ -33,6 +32,11 @@ FinVADER requires [Python 3.8 - 3.11](https://www.python.org/downloads/), and [N
 To install using pip, use:
 
 `pip install finvader`
+
+
+## Data requirements
+
+It requires complete text data without NAN values and empty strings. Remove them during the pre-processing part. 
 
 
 ## Usage
