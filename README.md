@@ -36,7 +36,7 @@ To install using pip, use:
 
 ## Data requirements
 
-It requires complete text data without NaN values and empty strings. Remove them during the pre-processing part. 
+It requires complete text data without NaN values and empty strings. Remove them in the pre-processing part. 
 
 
 ## Usage
