@@ -83,7 +83,7 @@ data = pd.read_csv("ecb_speeches.csv")
 from finvader import finvader                         
 data['finvader'] = data.contents.apply(finvader,               # apply FinVADER and create a new column in data df
                                    use_sentibignomics = True,  # Use Lexicon 1
-                                   use_henry = True,           # Use Lexicon 1
+                                   use_henry = True,           # Use Lexicon 2
                                    indicator="compound")       # Use VADER's compound indicator
 ```
 
