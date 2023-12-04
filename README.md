@@ -71,7 +71,7 @@ scores = finvader(text,
 ### Example of using the classifier: 
 
 ``` python
-import pandas as pd                                    # read data
+import pandas as pd                                            # read data
 data = pd.read_csv("ecb_speeches.csv")
 ```
 
@@ -90,8 +90,6 @@ For examples of coding, read these  tutorials:
 **FinVADER: Sentiment Analysis for Financial Applications** [here](https://python.plainenglish.io/finvader-sentiment-analysis-for-financial-applications-6ab3c08840b4?sk=01b880558bd66b83b44618051e2e5df4)
 
 **Fine-tuning VADER Classifier with Domain-specific Lexicons** [here](https://medium.com/mlearning-ai/fine-tuning-vader-classifier-with-domain-specific-lexicons-1b23f6882f2?sk=f36e92bc46ba2997e1fc5f4fe2c44bcc)
-
-
 **** 
 
 Please visit [here](https://github.com/PetrKorab/finvader/issues) for any questions, issues, bugs, and suggestions.
