@@ -1,5 +1,4 @@
 [![pypi](https://img.shields.io/pypi/v/finvader.svg)](https://pypi.python.org/pypi/finvader)
-[![python](https://img.shields.io/pypi/pyversions/finvader.svg)](https://pypi.python.org/pypi/finvader)
 [![License: MIT](https://badgen.net/badge/license/apache-2-0/blue)]([https://opensource.org/licenses/MIT](https://opensource.org/license/apache-2-0/))
 
 
